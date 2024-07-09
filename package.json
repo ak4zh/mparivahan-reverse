@@ -1,0 +1,22 @@
+{
+  "name": "mparivahan-reverse",
+  "version": "1.0.0",
+  "description": "Important Note",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak4zh/mparivahan-reverse.git"
+  },
+  "keywords": [
+    "mparivahan"
+  ],
+  "author": "ak4zh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ak4zh/mparivahan-reverse/issues"
+  },
+  "homepage": "https://github.com/ak4zh/mparivahan-reverse#readme"
+}
